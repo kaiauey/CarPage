@@ -309,3 +309,4 @@
 /Users/aueyeay/Projects/DX212/Assignment12/Assignment12/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Assignment12.pdb
 /Users/aueyeay/Projects/DX212/Assignment12/Assignment12/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Assignment12.genruntimeconfig.cache
 /Users/aueyeay/Projects/DX212/Assignment12/Assignment12/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/Assignment12.dll
+/Users/aueyeay/Projects/DX212/Assignment12/Assignment12/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Assignment12.sourcelink.json

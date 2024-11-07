@@ -5,7 +5,7 @@ namespace Assignment12;
 
 public static class Constants
 {
-    private const string DBFileName = "SQLite_Assignment12.db3";
+    private const string DBFileName = "SQLiteCarpage.db3";
 
     public const SQLiteOpenFlags Flags = 
                         SQLiteOpenFlags.ReadWrite |

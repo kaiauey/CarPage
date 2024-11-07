@@ -1,6 +1,6 @@
 using System;
 using SQLite;
-using  Assignment12.MVVM.Models;
+using Assignment12.MVVM.Models;
 
 namespace Assignment12.Repositories;
 
@@ -70,8 +70,8 @@ public class CarRepository
     {
         try
         {
-           var student = Get(id);
-           connection.Delete(student);
+           var car = Get(id);
+           connection.Delete(car);
         }
         catch (Exception ex)
         {

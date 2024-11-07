@@ -36,11 +36,13 @@
                                     </SwipeItem>
                                 </SwipeItems>
                             </SwipeView.LeftItems>
-                            <Grid ColumnDefinitions="*,*">
+                            <Grid ColumnDefinitions="*,*,*">
                                 <Label Grid.Column="0" 
                                         Text="{Binding CarId}"></Label>
                                 <Label Grid.Column="1"
                                         Text="{Binding Model}"></Label>
+                                <Label Grid.Column="2"
+                                        Text="{Binding Color}"></Label>
                             </Grid>
                         </SwipeView>
                     </DataTemplate>
@@ -49,3 +51,4 @@
         </ScrollView>
     </Grid>
 </ContentPage>
+
